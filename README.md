@@ -2,4 +2,4 @@
 
 Some plain text, 
 
-and description 
+and a brief description 
